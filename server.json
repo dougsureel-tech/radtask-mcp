@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.dougsureel-tech/radtask-mcp",
-  "description": "AI task cockpit — an autonomous agent does your tasks and asks before anything irreversible. Any AI can connect and drop tasks in.",
+  "description": "AI task cockpit: an agent does your tasks and asks before anything irreversible.",
   "version": "0.1.0",
   "homepage": "https://radtask.ai",
   "repository": {
